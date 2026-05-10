@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -1125,7 +1124,7 @@
     <li><a href="#">Terminos de uso</a></li>
     <li><a href="#">Privacidad</a></li>
   </ul>
-  <p class="footer-copy">© 2025 PawMatch. Todos los derechos reservados. · Tijuana, Baja California, Mexico.</p>
+  <p class="footer-copy">© 2026 PawMatch. Todos los derechos reservados. · Tijuana, Baja California, Mexico.</p>
 </footer>
 
 <script>
