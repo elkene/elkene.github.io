@@ -910,7 +910,7 @@ const respuestas={
   'algoritmo':'El algoritmo convierte tu perfil en un vector de 5 dimensiones (espacio, actividad, horario, experiencia y convivencia familiar) y calcula la similitud coseno con cada mascota disponible. El resultado es un score de compatibilidad de 0 a 100% 🤖',
   'gratuito':'¡Sí! El plan Básico es completamente gratuito y sin límite de tiempo. No necesitas tarjeta de crédito para registrarte. Incluye catálogo completo y las 10 mejores coincidencias de compatibilidad 🎉',
   'refugio':'Para registrar tu refugio, elige el plan Refugios desde la sección de precios. Nuestro equipo valida la información en 48 horas y te habilita el panel de gestión con capacitación gratuita incluida 🏥',
-  'ciudades':'Actualmente operamos en Tijuana y Ensenada, Baja California, con 50 refugios aliados. Estamos expandiéndonos hacia Mexicali y Ciudad de México durante el segundo semestre de 2025 📍',
+  'ciudades':'Actualmente operamos en Tijuana y Ensenada, Baja California, con 50 refugios aliados. Estamos expandiéndonos hacia Mexicali y Ciudad de México durante el segundo semestre de 2026 📍',
   'seguridad':'Tus datos están protegidos con cifrado TLS 1.3 en tránsito y AES-256 en reposo en servidores de AWS. Nunca vendemos ni compartimos tu información con terceros 🔒',
   'precio':'Tenemos tres planes: Básico (gratis), Pro Adoptante ($149 MXN/mes) y Refugios ($499 MXN/mes). Puedes ver todos los detalles en la sección de precios de esta página 💰',
   'default':'Gracias por tu pregunta 🐾 Para información más detallada puedes revisar la sección FAQ de esta página o escribirnos a contacto@pawmatch.mx y te respondemos en menos de 24 horas.'
