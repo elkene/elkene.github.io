@@ -327,7 +327,7 @@ footer{background:var(--ink);border-top:1px solid rgba(255,255,255,.05);padding:
 <div id="inicio">
 <div class="hero">
   <div class="hero-left">
-    <div class="hero-badge">🐾 Versión Final <span class="vf-tag">2025</span></div>
+    <div class="hero-badge">🐾 Versión Final <span class="vf-tag">2026</span></div>
     <h1>La adopción<br>que <em>conecta</em><br>de verdad.</h1>
     <p class="hero-desc">PawMatch usa inteligencia artificial para encontrar qué mascota es compatible contigo. No más decisiones por impulso — solo conexiones que duran toda la vida.</p>
     <div class="hero-btns">
@@ -751,7 +751,7 @@ footer{background:var(--ink);border-top:1px solid rgba(255,255,255,.05);padding:
       <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">¿Cómo puedo registrar mi refugio? <span class="faq-arr">▾</span></button><div class="faq-a"><div class="faq-a-in">Elige el plan Refugios y completa el registro. Nuestro equipo valida la información en 48 horas y habilita el panel de gestión, incluyendo una capacitación gratuita de 1 hora.</div></div></div>
       <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">¿Qué pasa si la adopción no funciona? <span class="faq-arr">▾</span></button><div class="faq-a"><div class="faq-a-in">Nuestro equipo de seguimiento te contactará para orientarte. En casos donde la devolución sea necesaria, facilitamos el proceso con el refugio de forma respetuosa y sin juicios.</div></div></div>
       <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">¿Mis datos están seguros? <span class="faq-arr">▾</span></button><div class="faq-a"><div class="faq-a-in">Sí. Datos en AWS con cifrado TLS 1.3 en tránsito y AES-256 en reposo. Nunca vendemos tus datos. Puedes solicitar la eliminación de tu cuenta en cualquier momento.</div></div></div>
-      <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">¿En qué ciudades está disponible PawMatch? <span class="faq-arr">▾</span></button><div class="faq-a"><div class="faq-a-in">Actualmente en Tijuana y Ensenada con 50 refugios aliados. Expansión hacia Mexicali y CDMX durante el segundo semestre de 2025.</div></div></div>
+      <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">¿En qué ciudades está disponible PawMatch? <span class="faq-arr">▾</span></button><div class="faq-a"><div class="faq-a-in">Actualmente en Tijuana y Ensenada con 50 refugios aliados. Expansión hacia Mexicali y CDMX durante el segundo semestre de 2026.</div></div></div>
     </div>
   </div>
 </section>
@@ -812,14 +812,14 @@ footer{background:var(--ink);border-top:1px solid rgba(255,255,255,.05);padding:
 <!-- FOOTER -->
 <footer>
   <div class="footer-logo">PawMatch</div>
-  <p class="footer-tag">Adopción responsable, impulsada por inteligencia artificial · Versión Final 2025</p>
+  <p class="footer-tag">Adopción responsable, impulsada por inteligencia artificial · Versión Final 2026</p>
   <ul class="footer-links">
     <li><a href="#servicios">Servicios</a></li><li><a href="#galeria">Historias</a></li>
     <li><a href="#refugios">Refugios</a></li><li><a href="#precios">Precios</a></li>
     <li><a href="#faq">FAQ</a></li><li><a href="#registro">Registro</a></li>
     <li><a href="mailto:contacto@pawmatch.mx">Contacto</a></li>
   </ul>
-  <p class="footer-copy">© 2025 PawMatch · Tijuana, Baja California, México · Todos los derechos reservados</p>
+  <p class="footer-copy">© 2026 PawMatch · Tijuana, Baja California, México · Todos los derechos reservados</p>
 </footer>
 
 <!-- CHATBOT -->
